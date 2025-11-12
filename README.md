@@ -1,5 +1,4 @@
 # Fabric_MedallionBI_AutomatedInsights
-
 ## 👋 About Me
 
 Hi, myself Krishna — a Process Developer and BI Aanalyst with 10+ years of cross-functional experience in data engineering, dashboard storytelling, and global decision-making. I specialize in Microsoft Fabric, Power BI, and medallion architecture, with hands-on expertise in Lakehouse design, semantic modeling, and automated pipelines.
@@ -44,7 +43,7 @@ Built for global BI roles with Fabric-powered automation and recruiter-facing st
 
 # Segmentation Analysis
 
-![ALt text]()
+![ALt text](https://github.com/krishna87-tab/Fabric_MedallionBI_AutomatedInsights/blob/32261d7546df6b287ed4bc5131425635b5955342/Segmentation.png)
 
 # Shipmode Analysis
 
