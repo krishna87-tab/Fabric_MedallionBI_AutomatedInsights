@@ -1,5 +1,19 @@
 # Fabric_MedallionBI_AutomatedInsights
 
+## 👋 About Me
+
+Hi, myself Krishna — a Process Developer and BI Aanalyst with 10+ years of cross-functional experience in data engineering, dashboard storytelling, and global decision-making. I specialize in Microsoft Fabric, Power BI, and medallion architecture, with hands-on expertise in Lakehouse design, semantic modeling, and automated pipelines.
+
+My portfolio showcases:
+- Full-stack BI projects built on Fabric’s medallion architecture
+- Time intelligence KPIs (YoY Growth, Rolling 12M, MTD)
+- Troubleshooting resilience (schema alignment, gateway outages, DirectQuery optimization)
+- Recruiter-facing storytelling through “Behind the Scenes” tabs and README documentation
+
+🌍 I’m open to BI roles globally, with Spain as my preferred destination for its climate, lifestyle, and growing tech ecosystem. I’m eligible for self-sponsored work visas and ready to contribute to cross-functional teams with clarity, creativity, and impact.
+
+Let’s connect and build something insightful together!
+
 #PowerBI, #Fabric, #MedallionArchitecture,#BIPortfolio
 
 # From raw CSV to real-time insights — automated, architected, and recruiter-ready.
