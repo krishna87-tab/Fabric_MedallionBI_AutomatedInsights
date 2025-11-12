@@ -47,7 +47,7 @@ Built for global BI roles with Fabric-powered automation and recruiter-facing st
 
 # Shipmode Analysis
 
-![ALt text]()
+![ALt text](https://github.com/krishna87-tab/Fabric_MedallionBI_AutomatedInsights/blob/7d36f3cd82b069baef98161f799b1ba4ca782e4c/Shipmode_analytics.png)
 
 # Details
 
