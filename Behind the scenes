@@ -1,6 +1,24 @@
 🧩 Behind the Scenes
 
-1. Architecture Summary
+✅ 1. Architecture Summary
 This dashboard follows Microsoft Fabric’s medallion architecture. 
 Raw CSVs are ingested into the Bronze Lakehouse, cleaned in the Silver Warehouse, and curated in the Gold Warehouse with a Date table. 
 The semantic model connects via DirectQuery for real-time insights.
+
+✅ 2. Pipeline Flow
+A Fabric Data Pipeline automates ingestion, transformation, and semantic refresh across all layers. 
+Each step is modular and monitored, ensuring reliable data delivery and KPI accuracy.
+
+✅ 3. Troubleshooting Wins
+During development, I resolved schema mismatches between Dataflow Gen2 and Warehouse, 
+rebuilt the Date table to support Month Sort and time intelligence, 
+and optimized DirectQuery performance through semantic modeling best practices.
+
+✅ 4. KPI Logic Highlights
+KPIs like YoY Growth, YoY %, and KPI vs Target are powered by custom DAX measures. 
+These metrics enable executive storytelling and performance tracking across fiscal periods.
+
+## I’m open to BI roles globally and eligible for self-sponsored work visas upon job offer.
+
+Personal Note: 
+This dashboard reflects not just technical depth, but my commitment to clarity, adaptability, and global impact. Let’s connect!”
