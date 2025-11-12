@@ -9,7 +9,9 @@ My portfolio showcases:
 - Troubleshooting resilience (schema alignment, gateway outages, DirectQuery optimization)
 - Recruiter-facing storytelling through “Behind the Scenes” tabs and README documentation
 
-🌍 I’m open to BI roles globally, with Spain as my preferred destination for its climate, lifestyle, and growing tech ecosystem. I’m eligible for self-sponsored work visas and ready to contribute to cross-functional teams with clarity, creativity, and impact.
+> 📍 Open to Business Intelligence roles globally, with Spain as my preferred destination.  
+> ✅ Eligible for self-sponsored work visas (e.g., Highly Qualified Professional Visa, EU Blue Card) upon job offer.  
+> ✈️ Willing to relocate and contribute on-site or remotely to cross-functional teams.
 
 Let’s connect and build something insightful together!
 
