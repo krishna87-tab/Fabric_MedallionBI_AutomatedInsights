@@ -24,4 +24,6 @@ Includes KPI storytelling, pipeline orchestration, and global adaptability for r
 
 Built for global BI roles with Fabric-powered automation and recruiter-facing storytelling.
 
+## 🧩 Architecture Overview
+
 
