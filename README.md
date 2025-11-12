@@ -34,4 +34,22 @@ Built for global BI roles with Fabric-powered automation and recruiter-facing st
 
 ## Semantic Model
 
+![Alt text](https://github.com/krishna87-tab/Fabric_MedallionBI_AutomatedInsights/blob/f7b24aa2a7af94c61a0c9c4d373757b631cea4af/Semantic_Model.png)
+
+## Final Dashboard
+
+# Overview
+
+![Alt Text]()
+
+# Segmentation Analysis
+
+![ALt text]()
+
+# Shipmode Analysis
+
+![ALt text]()
+
+# Details
+
 ![Alt text]()
