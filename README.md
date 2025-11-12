@@ -51,4 +51,6 @@ Built for global BI roles with Fabric-powered automation and recruiter-facing st
 
 # Details
 
-![Alt text]()
+![Alt text](https://github.com/krishna87-tab/Fabric_MedallionBI_AutomatedInsights/blob/8c6f71bcac4c9161181da1411f9d370f9422643d/Details.png)
+
+
