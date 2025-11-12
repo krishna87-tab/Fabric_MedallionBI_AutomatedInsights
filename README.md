@@ -6,7 +6,7 @@ Hi, myself Krishna — a Process Developer and BI Aanalyst with 10+ years of cro
 
 My portfolio showcases:
 - Full-stack BI projects built on Fabric’s medallion architecture
-- Time intelligence KPIs (YoY Growth, Rolling 12M, MTD)
+- Time intelligence KPIs (YoY Growth, Yoy % growth, Current year vs Previous year, KPI vs Target)
 - Troubleshooting resilience (schema alignment, gateway outages, DirectQuery optimization)
 - Recruiter-facing storytelling through “Behind the Scenes” tabs and README documentation
 
