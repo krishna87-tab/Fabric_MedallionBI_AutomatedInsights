@@ -1,0 +1,6 @@
+🧩 Behind the Scenes
+
+1. Architecture Summary
+This dashboard follows Microsoft Fabric’s medallion architecture. 
+Raw CSVs are ingested into the Bronze Lakehouse, cleaned in the Silver Warehouse, and curated in the Gold Warehouse with a Date table. 
+The semantic model connects via DirectQuery for real-time insights.
