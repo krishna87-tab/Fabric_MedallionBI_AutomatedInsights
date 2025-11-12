@@ -40,7 +40,7 @@ Built for global BI roles with Fabric-powered automation and recruiter-facing st
 
 # Overview
 
-![Alt Text]()
+![Alt Text](https://github.com/krishna87-tab/Fabric_MedallionBI_AutomatedInsights/blob/f4c41fe149cb1b49c33b4b72774cac69735c9e7a/Overview.png)
 
 # Segmentation Analysis
 
