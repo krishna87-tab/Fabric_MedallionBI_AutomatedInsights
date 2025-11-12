@@ -9,9 +9,9 @@ My portfolio showcases:
 - Troubleshooting resilience (schema alignment, gateway outages, DirectQuery optimization)
 - Recruiter-facing storytelling through “Behind the Scenes” tabs and README documentation
 
-/ 📍 Open to Business Intelligence roles globally, with Spain as my preferred destination.  
-/ ✅ Eligible for self-sponsored work visas (e.g., Highly Qualified Professional Visa, EU Blue Card) upon job offer.  
-/ ✈️ Willing to relocate and contribute on-site or remotely to cross-functional teams.
+// 📍 Open to Business Intelligence roles globally, with Spain as my preferred destination.  
+// ✅ Eligible for self-sponsored work visas (e.g., Highly Qualified Professional Visa, EU Blue Card) upon job offer.  
+// ✈️ Willing to relocate and contribute on-site or remotely to cross-functional teams.
 
 Let’s connect and build something insightful together!
 
@@ -43,7 +43,7 @@ Built for global BI roles with Fabric-powered automation and recruiter-facing st
 
 ![Alt Text](https://github.com/krishna87-tab/Fabric_MedallionBI_AutomatedInsights/blob/f4c41fe149cb1b49c33b4b72774cac69735c9e7a/Overview.png)
 
-# Segmentation Analysis
+# Segment Analysis
 
 ![ALt text](https://github.com/krishna87-tab/Fabric_MedallionBI_AutomatedInsights/blob/32261d7546df6b287ed4bc5131425635b5955342/Segmentation.png)
 
